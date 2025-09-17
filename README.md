@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm a biomedical engineer especialized in mathematical modelling, doing a PhD in Computational neuroscience.
 
+How to reach me: agarcia@crm.cat or alexgaduca@gmail.com
 <!--
 **alexgarciaduran/alexgarciaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
