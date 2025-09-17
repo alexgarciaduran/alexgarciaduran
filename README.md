@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a biomedical engineer especialized in mathematical modelling, doing a PhD in Computational neuroscience.
+I'm a biomedical engineer specialized in mathematical modelling, doing a PhD in Computational neuroscience.
 
 How to reach me: agarcia@crm.cat or alexgaduca@gmail.com
 <!--
